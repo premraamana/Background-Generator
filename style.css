@@ -1,0 +1,26 @@
+body{
+    font: 'cursive' caption;
+    color: rgb(7, 247, 235);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    top: 85%;
+    background: linear-gradient(to right, rgb(0, 4, 255) , rgb(0, 255, 242)); 
+}
+ 
+h1 {
+    font-family: cursive;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .7em;
+    width: 100%;
+}
+
+h3 {
+    font: 900 1em 'cursive' , small-caption;
+    color: rgba(0, 255, 242, 0.986);
+    text-transform: none;
+    letter-spacing: 0.1em;
+
+}
